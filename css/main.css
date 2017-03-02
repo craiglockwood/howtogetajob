@@ -5,7 +5,7 @@
  
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Helvetica', 'Arial', sans-serif;
   font-weight: 300;
   overflow-x: hidden;
   line-height: 1.6;
@@ -20,7 +20,7 @@ h4,
 h5,
 h6 { font-weight: 300; }
 
-a { color: #3498db; }
+a { color: #cc0000; }
 
 a:hover,
 a:focus {
@@ -79,11 +79,11 @@ strong { font-weight: 600; }
 
 .button {
   display: inline-block;
-  background: #3498db;
+  background: #cc0000;
   padding: 1.125em 3em;
   border-radius: 64px;
   color: #fff;
-  border: 1px solid #3498db;
+  border: 1px solid #cc0000;
   -webkit-transition: background 1s linear, border 1s linear;
   transition: background 1s linear, border 1s linear;
   font-weight: 400;
@@ -113,8 +113,8 @@ strong { font-weight: 600; }
 
 .button.buy {
   background: transparent;
-  color: #3498db;
-  border: 1px solid #3498db;
+  color: #cc0000;
+  border: 1px solid #cc0000;
   -webkit-transition: color 1s linear;
   transition: color 1s linear;
 }
@@ -145,7 +145,7 @@ strong { font-weight: 600; }
 }
 
 .navbar-default .navbar-nav > li > a.button:hover,
-.navbar-default .navbar-nav > li > a.button:focus { color: #3498db; }
+.navbar-default .navbar-nav > li > a.button:focus { color: #cc0000; }
 
 .stick {
   display: block;
@@ -219,7 +219,7 @@ section header { margin-bottom: 3em; }
 .features > .container > .row > div { margin-bottom: 2.25em; }
 
 .features hr {
-  background: #3498db;
+  background: #cc0000;
   border: none;
   height: 1px;
   width: 20%;
@@ -232,7 +232,7 @@ section header { margin-bottom: 3em; }
 .section-spacing { padding: 4.5em 0; }
 
 .counter {
-  background: #3498db;
+  background: #cc0000;
   color: #fff;
   padding: 4.5em 0;
 }
@@ -268,7 +268,7 @@ section header { margin-bottom: 3em; }
 }
 
 .slick-dots li button:before {
-  color: #3498db;
+  color: #cc0000;
   opacity: .6;
 }
 
@@ -349,7 +349,7 @@ blockquote .fa-quote-right {
 #mc-form i[class*="fa-envelope"] {
   position: absolute;
   right: 1em;
-  color: #3498db;
+  color: #cc0000;
 }
 
 #mc-form i[class*="first-name-i"],
@@ -373,8 +373,8 @@ blockquote .fa-quote-right {
 
 .btn-default {
   color: #fff;
-  background-color: #3498db;
-  border-color: #3498db;
+  background-color: #cc0000;
+  border-color: #cc0000;
   -webkit-transition: all .5s linear;
   transition: background-color .5s linear;
   padding: 12px 1.5em;
@@ -450,7 +450,7 @@ blockquote .fa-quote-right {
 }
 
 .plan .header {
-  background: #3498db;
+  background: #cc0000;
   color: #fff;
   padding: .75em 1em;
 }
@@ -500,7 +500,7 @@ blockquote .fa-quote-right {
 
 .buy-button .button {
   background: #fff;
-  color: #3498db;
+  color: #cc0000;
 }
 
 /* ==========================================================================
@@ -517,7 +517,7 @@ img.author-img {
 .author h4 {
   margin-top: 0;
   font-weight: 700;
-  color: #3498db;
+  color: #cc0000;
 }
 
 .signature { margin: .75em 0; }
@@ -539,7 +539,7 @@ img.author-img {
   line-height: 38px;
   color: #fff;
   border-radius: 50%;
-  background: #3498db;
+  background: #cc0000;
   position: relative;
   -webkit-transition: all .5s linear;
   transition: all .5s linear;
@@ -556,7 +556,7 @@ img.author-img {
    
 .buy-now {
   padding: 4.5em 0;
-  background: #3498db;
+  background: #cc0000;
 }
 
 .buy-now .button.buy {
@@ -577,7 +577,7 @@ img.author-img {
 .twitter-feed h2 { margin: 0; }
 
 .twitter-icon .fa-twitter {
-  color: #3498db;
+  color: #cc0000;
   padding: 24px 0 12px;
   font-size: 3em;
 }
@@ -601,7 +601,7 @@ img.author-img {
 .address { padding: 3em 0; }
 
 .address li i {
-  color: #3498db;
+  color: #cc0000;
   display: block;
   font-size: 3em;
 }
@@ -684,8 +684,8 @@ img.author-img {
 
 .site-footer .social li a {
   background: transparent;
-  color: #3498db;
-  border: 1px solid #3498db;
+  color: #cc0000;
+  border: 1px solid #cc0000;
 }
 
 .site-footer .social li a:hover {
@@ -695,7 +695,7 @@ img.author-img {
 }
 
 .modal-header {
-  background: #3498db;
+  background: #cc0000;
   position: relative;
   min-height: 0;
   padding: 1.5em 1em;
@@ -707,7 +707,7 @@ img.author-img {
 }
 
 button.close {
-  color: #3498db;
+  color: #cc0000;
   opacity: 1;
   background: white;
   width: 35px;
@@ -751,7 +751,7 @@ button.close {
   transition: background .5s linear;
 }
 
-.scroll-top a:hover { background: #3498db; }
+.scroll-top a:hover { background: #cc0000; }
 
 /* ==========================================================================
    Small devices (tablets, 768px and up)

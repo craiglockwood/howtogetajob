@@ -29,6 +29,10 @@ a:focus {
   outline: none;
 }
 
+.padbot {
+  padding-bottom: 20px;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -804,7 +808,7 @@ blockquote { font-size: 22px; }
 
 .hero h1 {
   font-size: 73.981px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1.17;
 }
 
